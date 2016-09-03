@@ -1,4 +1,3 @@
-layout_spectrum: 0.6935881318058819
 typography_spectrum: 0.38741458021104336
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6935881318058819
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: draugmedia
+    url: 'http://www.draugmedia.com'
+    type: external
 favicon: null
 title: draugmedia
 description: music nonstop
